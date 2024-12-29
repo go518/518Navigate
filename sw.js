@@ -1,4 +1,4 @@
-var APP_PREFIX = '云酱游戏导航';
+var APP_PREFIX = '518游戏导航';
 var VERSION = '2.20240712';
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = []
