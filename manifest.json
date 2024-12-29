@@ -1,8 +1,8 @@
 {
   "dir": "ltr",
   "scope": "/",
-  "name": "云酱游戏导航",
-  "short_name": "云酱",
+  "name": "518游戏导航",
+  "short_name": "518",
   "icons": [{
       "src": "icon.png",
       "sizes": "513x513",
@@ -14,5 +14,5 @@
   "orientation": "portrait",
   "background_color": "#DFAEFF",
   "theme_color": "#DFAEFF",
-  "description": "干净可靠的游戏导航，由琴梨梨维护"
+  "description": "干净可靠的游戏导航，由518维护"
 }
